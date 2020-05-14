@@ -33,6 +33,7 @@ SPECIAL NOTE
 ### Add New Server
 1. Open Minecraft
 2. Select Server - Mineplex (wait for it to load)
+![1](https://user-images.githubusercontent.com/9988006/81892312-63a09200-95dd-11ea-85ac-5f3574fde541.PNG)
 3. Select Connect to a Server
 4. Use the following details
 ![13](https://user-images.githubusercontent.com/9988006/81891440-00adfb80-95db-11ea-8e89-8928e26e3d80.PNG)
@@ -44,6 +45,7 @@ SPECIAL NOTE
 
 1. Open Minecraft
 2. Select Server - Mineplex (wait for it to load)
+![1](https://user-images.githubusercontent.com/9988006/81892312-63a09200-95dd-11ea-85ac-5f3574fde541.PNG)
 3. Select DEF Craft Server
 ![14](https://user-images.githubusercontent.com/9988006/81891536-410d7980-95db-11ea-80d4-adc5f11f4b09.PNG)
 4. Enjoy minecraft!
