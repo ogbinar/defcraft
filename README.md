@@ -24,6 +24,11 @@ Port: 25584
 Primary DNS: 104.238.130.180
 Secondary DNS: 008.008.008.008
 6. Save Settings
+
+SPECIAL NOTE 
+The DNS change will not affect the Nintendo Switch device's ability to use the internet. You can still normally use other multiplayer games without issues.
+
+### Connect to Server
 2. Open Minecraft
 3. Add server
 ![97800963_549861792629905_4073712420818780160_n](https://user-images.githubusercontent.com/9988006/81890131-c858ee00-95d7-11ea-86de-b50560af0f02.png)
@@ -32,6 +37,7 @@ Secondary DNS: 008.008.008.008
 Server Name: DEF Server
 Server Address: aldous.apexmc.co
 Port: 25584
+
 
 ## References:
 
