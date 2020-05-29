@@ -23,8 +23,8 @@
 5. go to DNS settings
 ![15](https://user-images.githubusercontent.com/9988006/81891652-8e89e680-95db-11ea-981b-6f0df51c38c0.PNG)
 6. Choose Manual
-* Primary DNS: 104.238.130.180
-* Secondary DNS: 008.008.008.008
+* Primary DNS: 167.99.72.42 (DEF Dedicated) --- 104.238.130.180 (public backup)
+* Secondary DNS: 008.008.008.008 (google dns)
 7. Save Settings
 
 SPECIAL NOTE 
