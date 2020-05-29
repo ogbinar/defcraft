@@ -24,7 +24,9 @@
 6. Choose Manual
 * Primary DNS: 167.99.72.42 (DEF Dedicated) --- 104.238.130.180 (public backup)
 * Secondary DNS: 008.008.008.008 (google dns)
+
 ![1a](https://user-images.githubusercontent.com/9988006/83259858-67423480-a1eb-11ea-8791-1a1f23aed2e8.PNG)
+
 7. Save Settings
 WARNING - You need to do this everytime you change WIFI network!
 
