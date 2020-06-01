@@ -4,6 +4,7 @@
 3. input your email
 4. select installation folder and use version 1.15.2 (or whatever is latest)
 5. launch minecraft
+6. connect to server 167.99.72.42 port 25565
 
 # Server
 1. go to https://papermc.io/downloads#Paper-1.15 and download latest version of server
