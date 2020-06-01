@@ -2,9 +2,16 @@
 1. go to https://tlauncher.org/
 2. download for your OS ie. windows
 3. input your username (in game name)
+
+![gha](https://user-images.githubusercontent.com/9988006/83399933-9f888380-a434-11ea-9cdc-96eeff31f396.PNG)
+
 4. select installation folder and use version 1.15.2 (or whatever is latest)
 5. launch minecraft
-6. connect to server 167.99.72.42 port 25565
+6. select multiplayer
+
+![server](https://user-images.githubusercontent.com/9988006/83400401-54bb3b80-a435-11ea-85e8-c68b9a091440.PNG)
+
+7. add and connect to server 167.99.72.42 port 25565
 
 # Server
 1. go to https://papermc.io/downloads#Paper-1.15 and download latest version of server
@@ -15,6 +22,13 @@
 * disable online mode
 * disable whitelist (or enable, up to you)
 * set yourself as op
+
+* white list commands
+Whitelist on - This activates the whitelist
+Whitelist off - This disables the whitelist
+Whitelist add playername - This will add a player to the whitelist
+Whitelist remove playername - This will remove a player from the whitelist
+Whitelist list - This will list the players who have been added to the whitelist
 
 REFERENCE:
 * https://www.vultr.com/docs/setup-paperspigot-on-ubuntu
