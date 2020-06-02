@@ -5,6 +5,8 @@
 
 ![gha](https://user-images.githubusercontent.com/9988006/83399933-9f888380-a434-11ea-9cdc-96eeff31f396.PNG)
 
+note: to be able to change skins, register your username in tlauncher.org (pls dont use very long name)
+
 4. select installation folder and use version 1.15.2 (or whatever is latest)
 5. launch minecraft
 6. select multiplayer
