@@ -15,6 +15,8 @@ note: to be able to change skins, register your username in tlauncher.org (pls d
 
 7. add and connect to server 167.99.72.42 port 25565
 
+## NOTE: if using bedrock client use 19133 as port
+
 # Server
 1. go to https://papermc.io/downloads#Paper-1.15 and download latest version of server
 2. install java 8 JRE  (or latest)
@@ -35,4 +37,4 @@ Whitelist list - This will list the players who have been added to the whitelist
 REFERENCE:
 * https://www.vultr.com/docs/setup-paperspigot-on-ubuntu
 * https://minecraft.gamepedia.com/Tutorials/Setting_up_a_server
-* Setup proxy for allowing MCPE / Bedrock clients to connect to Java Server https://github.com/DragonetMC/DragonProxy
+* Setup proxy for allowing MCPE / Bedrock clients (1.14) to connect to Java Server (1.15) https://github.com/DragonetMC/DragonProxy
