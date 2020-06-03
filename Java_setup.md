@@ -16,6 +16,7 @@ note: to be able to change skins, register your username in tlauncher.org (pls d
 7. add and connect to server 167.99.72.42 port 25565
 
 ## NOTE: if using bedrock client use 19133 as port
+(ps, switch, windows 10, MCPE -android/ios)
 
 # Server
 1. go to https://papermc.io/downloads#Paper-1.15 and download latest version of server
