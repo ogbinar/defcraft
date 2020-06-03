@@ -35,3 +35,4 @@ Whitelist list - This will list the players who have been added to the whitelist
 REFERENCE:
 * https://www.vultr.com/docs/setup-paperspigot-on-ubuntu
 * https://minecraft.gamepedia.com/Tutorials/Setting_up_a_server
+* Setup proxy for allowing MCPE / Bedrock clients to connect to Java Server https://github.com/DragonetMC/DragonProxy
