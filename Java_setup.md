@@ -1,4 +1,4 @@
-# Client
+# Client - PC, MAC, or LINUX
 1. go to https://tlauncher.org/
 2. download for your OS ie. windows
 3. input your username (in game name)
@@ -13,10 +13,17 @@ note: to be able to change skins, register your username in tlauncher.org (pls d
 
 ![server](https://user-images.githubusercontent.com/9988006/83400401-54bb3b80-a435-11ea-85e8-c68b9a091440.PNG)
 
-7. add and connect to server 167.99.72.42 port 25565
+7. add and connect to server 167.99.72.42 port 25565 NAME: DROP MC SERVER
 
 ## NOTE: if using bedrock client use 19133 as port
 (ps, switch, windows 10, MCPE -android/ios)
+
+# Client - Android
+1. install APK 1.14 (download here: https://www.dropbox.com/s/zqo9yijdlcpnkxo/minecraft-pe-1-14-60.apk?dl=0)
+2. open minecraft in android
+3. go to settings, profile - change your name
+4. go to play, then servers click add server
+5. use server 167.99.72.42 port 19133 - NAME: DROP MC SERVER
 
 # Server
 1. go to https://papermc.io/downloads#Paper-1.15 and download latest version of server
